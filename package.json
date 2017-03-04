@@ -1,0 +1,23 @@
+{
+  "name": "nodeschool",
+  "version": "0.0.1",
+  "description": "Just studying",
+  "main": "index.js",
+  "scripts": {
+    "javascripting": "./node_modules/.bin/javascripting",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cintiamh/NodeSchool.git"
+  },
+  "author": "Cintia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cintiamh/NodeSchool/issues"
+  },
+  "homepage": "https://github.com/cintiamh/NodeSchool#readme",
+  "devDependencies": {
+    "javascripting": "^2.6.1"
+  }
+}
